@@ -1,9 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-06-17T14:35:56.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" version="21.3.7" etag="Mm26MD2szkdtwASLPt-y" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-17T14:47:05.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="WWZfKmFuZTUXr3B5xjDp" version="21.3.7" type="github">
   <diagram name="第 1 页" id="CxVxzb0iaTSqbLYkik6z">
-    <mxGraphModel>
+    <mxGraphModel dx="1155" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cbcBL6zEBUgKpcWp-2m0-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5.2" y="288" width="144.8" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcBL6zEBUgKpcWp-2m0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.04;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cbcBL6zEBUgKpcWp-2m0-1" target="cbcBL6zEBUgKpcWp-2m0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcBL6zEBUgKpcWp-2m0-5" value="网线直连" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cbcBL6zEBUgKpcWp-2m0-4">
+          <mxGeometry x="-0.2202" y="-4" relative="1" as="geometry">
+            <mxPoint x="6" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbcBL6zEBUgKpcWp-2m0-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="95.2" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcBL6zEBUgKpcWp-2m0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbcBL6zEBUgKpcWp-2m0-3" target="cbcBL6zEBUgKpcWp-2m0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcBL6zEBUgKpcWp-2m0-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="348" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcBL6zEBUgKpcWp-2m0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbcBL6zEBUgKpcWp-2m0-7" target="cbcBL6zEBUgKpcWp-2m0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcBL6zEBUgKpcWp-2m0-7" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="338" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcBL6zEBUgKpcWp-2m0-9" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="740" y="348" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcBL6zEBUgKpcWp-2m0-12" value="企业内网" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="47.6" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcBL6zEBUgKpcWp-2m0-13" value="代理商笔记本" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="490" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcBL6zEBUgKpcWp-2m0-14" value="代理商手机热点" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="485" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cbcBL6zEBUgKpcWp-2m0-15" value="控制端电脑" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="717.8" y="485" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
