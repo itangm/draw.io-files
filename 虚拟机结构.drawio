@@ -1,9 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T13:50:47.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" version="21.3.7" etag="VennFWj17KHd1p9K6Og9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T13:59:10.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="XQAZJPsosoklVJORTH6I" version="21.3.7" type="github">
   <diagram name="第 1 页" id="epg4yvFtYu8-jbwaVdcQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1733" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="108" y="710" width="610" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="1">
+          <mxGeometry x="148" y="740" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.ram;" vertex="1" parent="1">
+          <mxGeometry x="308" y="760" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1">
+          <mxGeometry x="588" y="750" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-5" value="宿主机硬件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="378" y="880" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;操作系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="108" y="620" width="610" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;虚拟机软件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="108" y="530" width="610" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="108" y="450" width="172" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-13" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="1">
+          <mxGeometry x="116" y="490" width="32" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.ram;" vertex="1" parent="1">
+          <mxGeometry x="170" y="490" width="52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1">
+          <mxGeometry x="236" y="490" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-16" value="虚拟硬件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="159" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;操作系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="108" y="410" width="172" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;应用程序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="108" y="360" width="172" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-19" value="虚拟机1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="159" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="450" width="172" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-21" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="1">
+          <mxGeometry x="328" y="490" width="32" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.ram;" vertex="1" parent="1">
+          <mxGeometry x="382" y="490" width="52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-23" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1">
+          <mxGeometry x="448" y="490" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-24" value="虚拟硬件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="371" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;操作系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="172" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;应用程序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="172" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-27" value="虚拟机1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="371" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="546" y="450" width="172" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-29" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="1">
+          <mxGeometry x="554" y="490" width="32" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-30" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.ram;" vertex="1" parent="1">
+          <mxGeometry x="608" y="490" width="52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-31" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1">
+          <mxGeometry x="674" y="490" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-32" value="虚拟硬件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="597" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-33" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;操作系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="546" y="410" width="172" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;应用程序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="546" y="360" width="172" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gwTlmzaOhiV_3lAnGddg-35" value="虚拟机1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="597" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
