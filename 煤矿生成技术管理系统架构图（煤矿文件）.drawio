@@ -1,145 +1,142 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T07:37:32.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="xv7B1tk8wH0fyFcqcjVF" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T07:39:49.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="jO1V2LPn4YHVViKR6v0I" version="21.5.2" type="github">
   <diagram name="第 1 页" id="epg4yvFtYu8-jbwaVdcQ">
     <mxGraphModel dx="635" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; 用&lt;br&gt;&amp;nbsp; &amp;nbsp; 户&lt;br&gt;&amp;nbsp; &amp;nbsp; 表&lt;br&gt;&amp;nbsp; &amp;nbsp; 现&lt;br&gt;&amp;nbsp; &amp;nbsp; 层&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; 用&lt;br&gt;&amp;nbsp; &amp;nbsp; 户&lt;br&gt;&amp;nbsp; &amp;nbsp; 表&lt;br&gt;&amp;nbsp; &amp;nbsp; 现&lt;br&gt;&amp;nbsp; &amp;nbsp; 层&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="40" y="125" width="620" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="35" y="410" as="sourcePoint" />
             <mxPoint x="665" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-3" value="角色创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-3" value="角色创建" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="140" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-4" value="用户创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-4" value="用户创建" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="140" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-5" value="用户冻结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-5" value="用户冻结" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="180" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-6" value="角色授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-6" value="角色授权" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="140" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-7" value="煤矿基础信息维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-7" value="煤矿基础信息维护" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="180" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-8" value="操作规程资料上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-8" value="操作规程资料上传" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="220" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-11" value="作业规程资料上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-11" value="作业规程资料上传" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="220" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-12" value="作业规程资料查阅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-12" value="作业规程资料查阅" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="260" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-13" value="机电设备资料上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-13" value="机电设备资料上传" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="260" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-15" value="煤质资料上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-15" value="煤质资料上传" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="300" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-16" value="数字化图纸上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-16" value="数字化图纸上传" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="340" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-17" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-17" value="......" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="340" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; 用&lt;br&gt;&amp;nbsp; &amp;nbsp; 户&lt;br&gt;&amp;nbsp; &amp;nbsp; 表&lt;br&gt;&amp;nbsp; &amp;nbsp; 现&lt;br&gt;&amp;nbsp; &amp;nbsp; 层&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; 用&lt;br&gt;&amp;nbsp; &amp;nbsp; 户&lt;br&gt;&amp;nbsp; &amp;nbsp; 表&lt;br&gt;&amp;nbsp; &amp;nbsp; 现&lt;br&gt;&amp;nbsp; &amp;nbsp; 层&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="40" y="425" width="620" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-20" value="角色管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-20" value="角色管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="440" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-21" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-21" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="440" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-22" value="用户冻结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-22" value="用户冻结" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="440" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-23" value="角色授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-23" value="角色授权" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="440" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-24" value="煤矿基础信息维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-24" value="煤矿基础信息维护" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="490" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-25" value="操作规程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-25" value="操作规程管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="490" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-26" value="操作规程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-26" value="操作规程管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="490" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-27" value="作业规程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-27" value="作业规程管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="490" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-28" value="机电设备管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-28" value="机电设备管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="540" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-29" value="煤质资料管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-29" value="煤质资料管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="540" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-30" value="数字化图纸管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-30" value="数字化图纸管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="540" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-31" value="数字档案管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-31" value="数字档案管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="540" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="620" as="sourcePoint" />
             <mxPoint x="670" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; 数&lt;br&gt;&amp;nbsp; &amp;nbsp; 据&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="40" y="640" width="280" height="100" as="geometry" />
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; 数&lt;br&gt;&amp;nbsp; &amp;nbsp; 据&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="40" y="640" width="620" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-34" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="650" width="60" height="80" as="geometry" />
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-34" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="190" y="650" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; 支&lt;br&gt;&amp;nbsp; &amp;nbsp; 撑&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="340" y="640" width="320" height="100" as="geometry" />
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-36" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="405" y="650" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-36" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="470" y="650" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-37" value="角色编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-37" value="角色编辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="140" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-38" value="用户编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-38" value="用户编辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="180" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-39" value="用户密码重置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-39" value="用户密码重置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="180" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-40" value="操作规程资料查阅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-40" value="操作规程资料查阅" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="220" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-41" value="操作规程资料删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-41" value="操作规程资料删除" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="220" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-42" value="作业规程资料删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-42" value="作业规程资料删除" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="260" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-43" value="机电设备资料查阅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-43" value="机电设备资料查阅" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="260" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-44" value="机电设备资料删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-44" value="机电设备资料删除" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="300" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-45" value="煤质资料查阅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-45" value="煤质资料查阅" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="300" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-46" value="煤质资料删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-46" value="煤质资料删除" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="300" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-47" value="数字化图纸查阅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-47" value="数字化图纸查阅" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="340" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC75HaRN48LqtUNK6O6Y-48" value="数字化图纸删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MC75HaRN48LqtUNK6O6Y-48" value="数字化图纸删除" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="340" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
