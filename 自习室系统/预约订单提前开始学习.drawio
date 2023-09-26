@@ -1,9 +1,255 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T06:40:00.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" version="21.8.2" etag="M2D-PK6jSyv5K61yXN_-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T06:40:31.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="EcdUwuh8e83eVvm7C52o" version="21.8.2" type="github">
   <diagram name="第 1 页" id="gpQfMz4gyfYrKQIVjvC7">
-    <mxGraphModel>
+    <mxGraphModel dx="-16" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xyGEbj48KgykbWm4aV5p-1" value="套餐服务的流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" diagramName="Rectangle" diagramCategory="general" parent="1">
+          <mxGeometry x="1654" width="826" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-3" target="xyGEbj48KgykbWm4aV5p-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1837.52" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;      入参：orderId&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="90" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-5" target="xyGEbj48KgykbWm4aV5p-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1597.52" y="555" as="targetPoint" />
+            <mxPoint x="1611.52" y="225" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-5" value="查询订单信息" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-6" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-8" target="xyGEbj48KgykbWm4aV5p-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2171.52" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2130" y="630" />
+              <mxPoint x="2130" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-8" target="xyGEbj48KgykbWm4aV5p-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-8" value="当前时间与订单开始&lt;br /&gt;时间是否同一天" style="rhombus;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Diamond" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="600" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-11" target="xyGEbj48KgykbWm4aV5p-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-10" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xyGEbj48KgykbWm4aV5p-9">
+          <mxGeometry x="-0.3167" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-11" value="包月卡支付" style="rhombus;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Diamond" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="500" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-16" target="xyGEbj48KgykbWm4aV5p-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1851.5200000000004" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-13" value="存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xyGEbj48KgykbWm4aV5p-12">
+          <mxGeometry x="-0.2952" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-16" target="xyGEbj48KgykbWm4aV5p-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2190" y="330" />
+              <mxPoint x="2190" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-15" value="不存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xyGEbj48KgykbWm4aV5p-14">
+          <mxGeometry x="-0.262" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-16" value="是否存在订单" style="rhombus;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Diamond" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-17" value="结&lt;br /&gt;束" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="2444.02" y="90" width="37" height="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-22" target="xyGEbj48KgykbWm4aV5p-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1960" y="430" />
+              <mxPoint x="1960" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-19" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xyGEbj48KgykbWm4aV5p-18">
+          <mxGeometry x="-0.0877" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-22" target="xyGEbj48KgykbWm4aV5p-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xyGEbj48KgykbWm4aV5p-20">
+          <mxGeometry x="0.2269" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-4.45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-22" value="订单状态是否为&lt;br /&gt;预约成功" style="rhombus;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Diamond" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-27" target="xyGEbj48KgykbWm4aV5p-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2092.02" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2110" y="730" />
+              <mxPoint x="2110" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-24" value="不在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xyGEbj48KgykbWm4aV5p-23">
+          <mxGeometry x="-0.0292" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-27" target="xyGEbj48KgykbWm4aV5p-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1851.5" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-26" value="在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xyGEbj48KgykbWm4aV5p-25">
+          <mxGeometry x="-0.2983" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-27" value="是否在营业时间内" style="rhombus;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Diamond" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="700" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-11" target="xyGEbj48KgykbWm4aV5p-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1813.8899186991866" y="575.0487804878048" as="sourcePoint" />
+            <mxPoint x="2090.42" y="575" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2020" y="530" />
+              <mxPoint x="2020" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-29" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xyGEbj48KgykbWm4aV5p-28">
+          <mxGeometry x="-0.0381" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-31" target="xyGEbj48KgykbWm4aV5p-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-31" value="&lt;span style&gt;计算新的学习开始时间和&lt;br /&gt;学习结束时间&lt;br /&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="1100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-36" target="xyGEbj48KgykbWm4aV5p-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-33" value="不占用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xyGEbj48KgykbWm4aV5p-32">
+          <mxGeometry x="-0.1567" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-36" target="xyGEbj48KgykbWm4aV5p-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2330" y="1230" />
+              <mxPoint x="2330" y="1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-35" value="占用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xyGEbj48KgykbWm4aV5p-34">
+          <mxGeometry x="-0.0316" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-36" value="根据新的时间判定&lt;br /&gt;座位是否被占用" style="rhombus;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Diamond" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="1200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-38" target="xyGEbj48KgykbWm4aV5p-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-38" value="&lt;span style&gt;更新订单正在学习中、&lt;br /&gt;新的时间、已到店&lt;br /&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="1300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-40" target="xyGEbj48KgykbWm4aV5p-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1851.52" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-40" value="新增到店操作日志" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="1400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-46" target="xyGEbj48KgykbWm4aV5p-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1851.52" y="2150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-43" target="xyGEbj48KgykbWm4aV5p-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2240" y="1730" />
+              <mxPoint x="2240" y="1730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-43" value="发送MQ消息" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="1700" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-45" target="xyGEbj48KgykbWm4aV5p-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-45" value="删除学习时间开始定时任务" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="1500" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-46" value="删除未到店定时任务" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="1600" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-48" target="xyGEbj48KgykbWm4aV5p-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-48" value="&lt;span style&gt;计算提前多少分钟数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="800" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-50" target="xyGEbj48KgykbWm4aV5p-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-50" value="&lt;span style&gt;查询最大提前入座的分钟阈值&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=0;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="900" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-55" target="xyGEbj48KgykbWm4aV5p-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2320" y="1030" />
+              <mxPoint x="2320" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-52" value="不在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xyGEbj48KgykbWm4aV5p-51">
+          <mxGeometry x="0.5161" y="143" relative="1" as="geometry">
+            <mxPoint x="-143" y="143" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xyGEbj48KgykbWm4aV5p-55" target="xyGEbj48KgykbWm4aV5p-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-54" value="在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xyGEbj48KgykbWm4aV5p-53">
+          <mxGeometry x="-0.2336" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyGEbj48KgykbWm4aV5p-55" value="是否在阈值内" style="rhombus;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Diamond" vertex="1" parent="1">
+          <mxGeometry x="1771.5" y="1000" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
